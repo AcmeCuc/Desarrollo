@@ -1,16 +1,16 @@
 #include <stdio.h>
 
 main()
-
+//ejemplo
 {
 
 int x, y;
 
-printf("Escribe el primer número: ");
+printf("Escribe el primer nÃºmero: ");
 
 scanf(" %d",&x);
 
-printf("Escribe el segundo número:");
+printf("Escribe el segundo nÃºmero:");
 
 scanf("%d",&y);
 
