@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 main()
-//ejemplo
+//ejemplo pruebas
 {
 
 int x, y;
